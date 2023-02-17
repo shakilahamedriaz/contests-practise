@@ -1,12 +1,10 @@
 #include<bits/stdc++.h>
-#include<algorithm>
-#include<vector>
 #include<cmath>
 using namespace std;
 
 
-const int n=1000000;
-bool prime[1000001];
+const int n=10000000;
+bool prime[n+1];
 vector<int>v;
 
 void sieve()
