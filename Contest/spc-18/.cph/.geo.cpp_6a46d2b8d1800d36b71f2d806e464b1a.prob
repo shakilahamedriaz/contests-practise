@@ -1,0 +1,1 @@
+{"name":"Local: geo","url":"e:\\Competative Progtamming\\spc-18\\geo.cpp","tests":[{"id":1687537563777,"input":"2\n100 100 100 5\n8 5.2 7 3.75","output":"3608.44\n18.27"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Competative Progtamming\\spc-18\\geo.cpp","group":"local","local":true}
